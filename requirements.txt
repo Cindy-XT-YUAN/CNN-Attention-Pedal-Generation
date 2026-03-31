@@ -1,0 +1,8 @@
+numpy
+pretty_midi
+torch
+tqdm
+matplotlib
+pandas
+scikit-learn
+tensorboard
