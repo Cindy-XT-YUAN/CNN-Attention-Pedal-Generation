@@ -26,13 +26,12 @@ It combines local temporal modeling (CNN) with long-range dependency modeling (s
 
 ## 🧱 Repository Structure
 
-CNN-Attention-Pedal-Generation/
-├── demo/  
-├── scripts/  
-├── src/  
-├── assets/  
-├── checkpoints/  
-├── data/
+CNN-Attention-Pedal-Generation  
+├── demo/           # Example MIDI inputs and outputs  
+├── scripts/        # Training, inference, and evaluation scripts   
+├── assets/         # Figures for README (optional)  
+├── checkpoints/    # Model weights (not included)  
+├── data/           # Dataset instructions  
 
 \---
 
