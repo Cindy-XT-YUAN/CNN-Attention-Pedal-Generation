@@ -103,24 +103,6 @@ Examples are provided in the demo/ directory with input MIDI, output MIDI, and v
 
 \---
 
-## 📄 Paper
-
-See:
-
-paper/Automatic\_Piano\_Pedal\_Generation\_from\_MIDI\_Using\_CNN\_AttENTION.pdf
-
-\---
-
-## 📌 Citation
-
-@article{yuan2026autopedalnet,
-title={Automatic Piano Pedal Generation from MIDI Using CNN-Attention},
-author={Yuan, Xintian},
-year={2026}
-}
-
-\---
-
 ## 📜 License
 
 MIT License
