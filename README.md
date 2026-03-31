@@ -31,7 +31,6 @@ CNN-Attention-Pedal-Generation/
 ├── scripts/  
 ├── src/  
 ├── assets/  
-├── paper/  
 ├── checkpoints/  
 ├── data/
 
